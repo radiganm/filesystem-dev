@@ -1,0 +1,6 @@
+[submodule "aufs"]
+	path = aufs
+	url = https://github.com/krinkinmu/aufs.git
+[submodule "simplefs"]
+	path = simplefs
+	url = https://github.com/psankar/simplefs.git
